@@ -123,7 +123,7 @@ font-size: 1.2em;
 border:0;
 text-transform: uppercase;
 font-weight: 900;
-padding:0.82em 2.5em;
+padding:0em 0.82em 2.5em;
 cursor: pointer;
 margin:0;
 }
@@ -238,7 +238,7 @@ display:inline-block;
 color:#fff;
 text-transform:uppercase;
 text-decoration:none;
-padding:0.75em 2em;
+
 }
 #header nav ul li a.btn {
 -moz-border-radius: 8px;
